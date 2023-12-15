@@ -1,13 +1,13 @@
 # Resources
 ### Read or watch:
 
-[Resources to learn Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
-[About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-[How to write a Git commit message](https://cbea.ms/git-commit/)
+* [Resources to learn Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+* [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+* [How to write a Git commit message](https://cbea.ms/git-commit/)
 ### Resources for advanced tasks (Read only after finishing the mandatory tasks):
 
-[Learning branching](https://learngitbranching.js.org/)
-[Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
+* [Learning branching](https://learngitbranching.js.org/)
+* [Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 ### Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
